@@ -1,0 +1,12 @@
+.line{
+    width: 50px;
+    height:5px;
+    background-color:orangered;
+    margin:10px auto;
+}
+
+body{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    color:orangered;
+}
